@@ -1,0 +1,14 @@
+{
+  "name": "jwtauthlearn",
+  "version": "1.0.0",
+  "description": "To learn authentication using jsonwebtokens and passport-jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saumitra Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
